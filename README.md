@@ -1,5 +1,4 @@
 
-````markdown
 # 🏏 BPL-DREAM 11  
 **Assemble Your Ultimate Dream 11 Cricket Team**
 
@@ -100,12 +99,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Naimullah Md Jakaria**
 Full-Stack Developer
-BGC Trust University Bangladesh
-
-```
-
-If you want, I can also:
-- add screenshots section 📸  
-- badges (build, deploy, stars) 🏷️  
-- or make it more “GitHub trending style” 🚀
-```
