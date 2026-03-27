@@ -2,7 +2,7 @@ import React from 'react';
 import { MdOutlinePersonAddAlt } from "react-icons/md";
 const EmptySelectedState = () => {
     return (
-        <div className="flex flex-col items-center justify-center p-12 bg-gray-50 border-2 border-dashed border-gray-200 rounded-[32px] text-center">
+        <div className="flex flex-col items-center justify-center p-12 bg-gray-50 border-2 border-dashed border-gray-200 rounded-4xl text-center">
             {/* Icon Wrapper */}
             <div className="bg-white p-6 rounded-full shadow-sm mb-6 text-gray-400">
                 <MdOutlinePersonAddAlt className="text-6xl" />

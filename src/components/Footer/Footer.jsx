@@ -7,9 +7,9 @@ const Footer = () => {
         <footer className="relative bg-[#06091A] pt-48 pb-10 mt-64">
             {/* Floating Newsletter Card */}
             <div className="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 w-11/12 max-w-6xl">
-                <div className="bg-white/10 backdrop-blur-md p-4 rounded-[32px] border border-white/20">
+                <div className="bg-white/10 backdrop-blur-md p-4 rounded-4xl border border-white/20">
                     <div
-                        className="bg-white rounded-[24px] py-16 px-6 text-center shadow-xl"
+                        className="bg-white rounded-3xl py-16 px-6 text-center shadow-xl"
                         style={{
                             backgroundImage: `url(${BgShadow})`,
                             backgroundSize: 'cover',
@@ -26,7 +26,7 @@ const Footer = () => {
                                 placeholder="Enter your email"
                                 className="input input-bordered w-full max-w-sm rounded-xl text-black"
                             />
-                            <button className="btn border-none rounded-xl px-8 bg-gradient-to-r from-pink-400 to-yellow-500 text-black font-bold normal-case">
+                            <button className="btn border-none rounded-xl px-8 bg-linear-to-r from-pink-400 to-yellow-500 text-black font-bold normal-case">
                                 Subscribe
                             </button>
                         </div>
@@ -71,7 +71,7 @@ const Footer = () => {
                                 placeholder="Enter your email"
                                 className="input input-bordered rounded-l-xl rounded-r-none w-full bg-white text-black"
                             />
-                            <button className="btn rounded-l-none rounded-r-xl border-none bg-gradient-to-r from-yellow-500 to-pink-400 text-black font-bold normal-case px-6">
+                            <button className="btn rounded-l-none rounded-r-xl border-none bg-linear-to-r from-yellow-500 to-pink-400 text-black font-bold normal-case px-6">
                                 Subscribe
                             </button>
                         </div>
