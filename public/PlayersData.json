@@ -1,0 +1,208 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "batsman",
+    "rating": 95,
+    "battingStyle": "Right-hand Bat",
+    "price": 1500000,
+    "img": "https://i.ibb.co.com/Y7vrhpgc/virat-kohli.webp"
+  },
+  {
+    "id": 2,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "batsman",
+    "rating": 92,
+    "battingStyle": "Right-hand Bat",
+    "price": 1400000,
+    "img": "https://i.ibb.co.com/FLwPbXg2/babar-azam-end-game-pose-kihu8gjuefhgto7e.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "batsman",
+    "rating": 91,
+    "battingStyle": "Right-hand Bat",
+    "price": 1350000,
+    "img": "https://i.ibb.co.com/1YVDzNKC/skysports-kane-williamson.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "role": "batsman",
+    "rating": 90,
+    "battingStyle": "Right-hand Bat",
+    "price": 1340000,
+    "img": "https://i.ibb.co.com/zTRxDPZV/steve-smith.webp"
+  },
+  {
+    "id": 5,
+    "name": "Joe Root",
+    "country": "England",
+    "role": "batsman",
+    "rating": 90,
+    "battingStyle": "Right-hand Bat",
+    "price": 1320000,
+    "img": "https://i.ibb.co.com/QwZ0wy3/joe-root.webp"
+  },
+  {
+    "id": 6,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "role": "bowler",
+    "rating": 94,
+    "bowlingStyle": "Right-arm Fast",
+    "price": 1380000,
+    "img": "https://i.pravatar.cc/150?img=6"
+  },
+  {
+    "id": 7,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "role": "bowler",
+    "rating": 96,
+    "bowlingStyle": "Right-arm Legbreak",
+    "price": 1550000,
+    "img": "https://i.ibb.co.com/BVBp9GTs/rashid-khan.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Shaheen Afridi",
+    "country": "Pakistan",
+    "role": "bowler",
+    "rating": 92,
+    "bowlingStyle": "Left-arm Fast",
+    "price": 1370000,
+    "img": "https://i.ibb.co.com/993v5jfC/shaheen-shah-afridi.webp"
+  },
+  {
+    "id": 9,
+    "name": "Mitchell Starc",
+    "country": "Australia",
+    "role": "bowler",
+    "rating": 91,
+    "bowlingStyle": "Left-arm Fast",
+    "price": 1390000,
+    "img": "https://i.ibb.co.com/qbCZHd3/skysports-mitchell-starc.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "role": "bowler",
+    "rating": 88,
+    "bowlingStyle": "Left-arm Fast",
+    "price": 1250000,
+    "img": "https://i.pravatar.cc/150?img=10"
+  },
+  {
+    "id": 11,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "allrounder",
+    "rating": 93,
+    "battingStyle": "Left-hand Bat",
+    "bowlingStyle": "Left-arm Orthodox",
+    "price": 1420000,
+    "img": "https://i.pravatar.cc/150?img=11"
+  },
+  {
+    "id": 12,
+    "name": "Ben Stokes",
+    "country": "England",
+    "role": "allrounder",
+    "rating": 90,
+    "battingStyle": "Left-hand Bat",
+    "bowlingStyle": "Right-arm Fast Medium",
+    "price": 1450000,
+    "img": "https://i.pravatar.cc/150?img=12"
+  },
+  {
+    "id": 13,
+    "name": "Hardik Pandya",
+    "country": "India",
+    "role": "allrounder",
+    "rating": 89,
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Medium Fast",
+    "price": 1360000,
+    "img": "https://i.pravatar.cc/150?img=13"
+  },
+  {
+    "id": 14,
+    "name": "Glenn Maxwell",
+    "country": "Australia",
+    "role": "allrounder",
+    "rating": 88,
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Offbreak",
+    "price": 1290000,
+    "img": "https://i.pravatar.cc/150?img=14"
+  },
+  {
+    "id": 15,
+    "name": "Mohammad Nabi",
+    "country": "Afghanistan",
+    "role": "allrounder",
+    "rating": 86,
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Offbreak",
+    "price": 1200000,
+    "img": "https://i.pravatar.cc/150?img=15"
+  },
+  {
+    "id": 16,
+    "name": "David Warner",
+    "country": "Australia",
+    "role": "batsman",
+    "rating": 89,
+    "battingStyle": "Left-hand Bat",
+    "price": 1300000,
+    "img": "https://i.pravatar.cc/150?img=16"
+  },
+  {
+    "id": 17,
+    "name": "KL Rahul",
+    "country": "India",
+    "role": "batsman",
+    "rating": 88,
+    "battingStyle": "Right-hand Bat",
+    "price": 1260000,
+    "img": "https://i.pravatar.cc/150?img=17"
+  },
+  {
+    "id": 18,
+    "name": "Josh Hazlewood",
+    "country": "Australia",
+    "role": "bowler",
+    "rating": 87,
+    "bowlingStyle": "Right-arm Fast",
+    "price": 1230000,
+    "img": "https://i.pravatar.cc/150?img=18"
+  },
+  {
+    "id": 19,
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "role": "allrounder",
+    "rating": 91,
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Fast",
+    "price": 1410000,
+    "img": "https://i.pravatar.cc/150?img=19"
+  },
+  {
+    "id": 20,
+    "name": "Litton Das",
+    "country": "Bangladesh",
+    "role": "batsman",
+    "rating": 85,
+    "battingStyle": "Right-hand Bat",
+    "price": 1180000,
+    "img": "https://i.pravatar.cc/150?img=20"
+  }
+]
